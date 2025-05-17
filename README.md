@@ -1,5 +1,5 @@
-##Projeto de lista de contatos
+## Projeto de lista de contatos
 - Adicionar e remover contatos
 - Código, Nome, Email, Telefone
 
-  ##Visualização: https://danealbuquerque.github.io/Contatos/
+## Visualização: https://danealbuquerque.github.io/Contatos/
